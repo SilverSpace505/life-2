@@ -1,0 +1,13 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  div {
+      height: 30px;
+      display: flex;
+  }
+  
+  #life {
+      width: 50%;
+  }
